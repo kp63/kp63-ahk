@@ -6,6 +6,10 @@
 
 exeは[Release](https://github.com/kp63/kp63-ahk/releases/tag/release)からダウンロードできます。
 
+ps. Win+スペースでIMEを変更をする人はそのままだと競合します。
+
+<!--ウスター-->ソースからキーを変更するかime-macの方を使ってください。
+
 
 ## 特徴
 
