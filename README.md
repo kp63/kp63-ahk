@@ -1,6 +1,7 @@
 # kp63-ahk
 
 自分のためのahkスクリプトです。
+exeは[Release](https://github.com/kp63/kp63-ahk/releases/tag/release)からダウンロードできます。
 
 
 ## 特徴
@@ -14,9 +15,7 @@
 - Win+スペース → Everythingを開く
 
 
-## <!--ウスター-->ソースについて
-Everything.exeを使ってない場合は`; Everthing like spotlight`以降を削除してください
-
-
 ## Thanks
 - IME操作に使用: [karakaram/alt-ime-ahk](https://github.com/karakaram/alt-ime-ahk)
+
+<!-- ^v^ -->
