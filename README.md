@@ -1,5 +1,12 @@
 # kp63-ahk
 
+## Archived
+現在、MirosoftのPowerToysに[Keyboard Managerユーティリティ](https://learn.microsoft.com/ja-jp/windows/powertoys/keyboard-manager)があるので、これを使えばAutoHotKeyなしでも変換、無変換キーをMacの様にIMEトグルとして割り当てることができます。
+![Image](https://github.com/user-attachments/assets/2c0c2d85-43d4-4ede-b289-4a7f0301b01c)
+
+また、[PowerToys Runユーティリティ](https://learn.microsoft.com/ja-jp/windows/powertoys/run)を使用すればSpotlightのような検索窓を出すことができます。
+
+## 序章
 自分のためのahkスクリプトです。
 
 日本語/英語の入力切替をApple風にし、Spotlightみたいに[Everything](https://www.google.com/search?q=Everything)を起動します。
